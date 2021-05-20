@@ -19,7 +19,7 @@ MarxManager is a CRUD PHP web application that allow users to manage their Favor
 
 ## Demo
 
-**[MarxManagear at heroku](https://vehikl.com/)**
+**[MarxManagear at heroku in progress](https://vehikl.com/)**
 
 ## License
 
